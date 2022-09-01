@@ -2,19 +2,28 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+* Jeux videos
+* Animes 
+* Séries
+* Sport 
+* Deux chats
+* St Gérome
+* poulet au beurre 
+* walter white
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
-
+* Codage
+* Model 3D / création
+* animation
+* effet spéciaux
 ### Emplois qui vous intéressent
-Nommez deux emplois.
-
+* 3d Modeling
+* animateur 3D
+* DESSIN 😄
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
-
+* Studio Mundfish 
+* jeu action original scifi 
 ### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
-
+* dans une boite de jeu a faire des models dans des conditions médiocres 
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+Aider beaucoup a faire un jeu d'action 
