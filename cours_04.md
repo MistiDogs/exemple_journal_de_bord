@@ -8,10 +8,10 @@ Ce métier consiste à s'occuper de l'élaboration du plan de conception, de la 
 Ce métier consiste à s'occuper de plusieurs choses, tel que modéliser certaines pièces et formes, de préparer tous les éléments en vue de l’animation de choisir les différentes textures, couleurs et lumières pour l’animation et autres. Il travaille en collaboration avec l’artiste 3D tout au long de la réalisation. J'imagine que la qualité principale nécessaire dans ce travail est l'originalité afin que son oeuvre ne se ressemble pas avec les autres. Ce qui m'interesse le moins dans celui-ci c'est le fait qu'on ne peut pas décider ce qu'on dessine et qu'on doit probablement suivent les règlements afin de respecter l'oeuvre auquel on travaille dessus, notre imagination est en cage.
 ### Emploi 3 - Testeur de jeux videos
 Ce métier consiste à tester des jeux dans leurs phases intermédiaires afin de détecter les anomalies et de vérifier dans quelle zone se trouve les bugs. J'imagine que la qualité nécessaire pour celui-ci c'est d'être curieux puisqu'il faut chercher dans tous les moindres recoins afin de trouver les problèmes aux alentours, les petits et les grands. Celui-ci travaille souvent dans les plus grandes boites de jeux. Ce qui m'interesse le moins dans ce métier c'est qu'il ne consiste pas n'a créé rien du tout. Il ne consiste pas juste à essayer le produit de la réalisation de quelqu'un d'autre lambda.
-### Emploi 4 - Identification
-
+### Emploi 4 - Programmeur
+Ce métier consiste à s'occuper de l'écriture des codes du programme en utilisant le langage de programmation approprié, d'effectue une mise à l'essai du programme pour s'assurer de son bon fonctionnement, de mettre à jour les programmes informatiques existants en effectuant les modifications de manière spécifiée, de rédige la documentation sur les programmes à l'intention des utilisateurs et d'évalue et adapte les programmes d'applications provenant de sources extérieures. Celui-ci peut être autonome tout comme travailler en entreprise. J'imagine que la qualité nécéssaire c'est d'être concentrer et de bien comprendre son métier, je ne vois pas d'autre qualité n'ecéssaire pour travailler dans ce domaine. Ce que j'aime pas dans ce métier c'est que j'ai peur d'apprendre tout ça, ça semble assez compliquer. 
 
 ### Emploi 5 - Identification
-4 à 5 lignes
+
 
 
