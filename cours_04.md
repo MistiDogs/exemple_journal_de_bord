@@ -11,7 +11,8 @@ Ce métier consiste à tester des jeux dans leurs phases intermédiaires afin de
 ### Emploi 4 - Programmeur
 Ce métier consiste à s'occuper de l'écriture des codes du programme en utilisant le langage de programmation approprié, d'effectue une mise à l'essai du programme pour s'assurer de son bon fonctionnement, de mettre à jour les programmes informatiques existants en effectuant les modifications de manière spécifiée, de rédige la documentation sur les programmes à l'intention des utilisateurs et d'évalue et adapte les programmes d'applications provenant de sources extérieures. Celui-ci peut être autonome tout comme travailler en entreprise. J'imagine que la qualité nécéssaire c'est d'être concentrer et de bien comprendre son métier, je ne vois pas d'autre qualité n'ecéssaire pour travailler dans ce domaine. Ce que j'aime pas dans ce métier c'est que j'ai peur d'apprendre tout ça, ça semble assez compliquer. 
 
-### Emploi 5 - Identification
+### Emploi 5 - Artiste Technique
+Ce métier consiste a plusieurs choses, tel que d'identifie besoin et problème du projet, de développer des outils et des stratégie pour assurer la qualité du projet, de documenter et entretenir les outils/procédés/processus, de planifier et documenter les étapes du projet, de partager ses connaissances et les bonnes pratiques, d'établir les limitations techniques du projet et de rechercher de nouvelles techniques et clients. Celui-ci peut être autonome et en entreprise, j'imagine que la qualité nécéssaire dans celui-ci c'est d'être a ses affaires. Je n'sais pas ce que j'aime pas a propos de celui-ci, il semble interessant.
 
 
 
