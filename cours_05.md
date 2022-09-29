@@ -2,10 +2,8 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
-
+J'ai fais une présentation amusante et fluide ce qui as fait rire le peuple. 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
-
+Articuler dans mes mots et regarder le publique plus souvent dans les yeux pour les captivers 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+La présentation de Ian parce que le trailer étais cool, on avait l'impression d'être dans un cinema :)
