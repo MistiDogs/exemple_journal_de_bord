@@ -18,4 +18,4 @@ Bonjour, je m'appelle Jacob et ceci est ma première année au cegep. Le devoir 
 
 Premièrement, j'aimerais apprendre à comment construire un modèle 3D parce que je pourrais aussi m'en servir en temps libre. Je m'explique, je suis un peu un joueur de **vrchat** et il m'arrive de vouloir créer des choses étant fruit de mes compétences et de mon imagination. Sinon, j'ai déjà vu qu'on pourrait vendre des models à des personnes sur le site https://www.fiverr.com/. Deuxièment, j'aimerais faire du codage parce qu'il pourrait être aussi utile dans mon temps personnel. Dernièrement, j'aimerais devenir encore plus imaginatif avec mes cours de Photoshop donc je suis venue ! J'adorerais que des personnes me félicitent pour mes exploits plus tard. Merci de m'avoir lu ! 🤠
 
-Voici une video qui me représente beaucoup : https://youtu.be/dQw4w9WgXcQ
+Voici une video qui me représente beaucoup : https://youtu.be/dQw4w9WgXcQ o
