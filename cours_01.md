@@ -9,13 +9,13 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 [Ce tutoriel](https://guides.github.com/features/mastering-markdown/) vous aidera à avoir la bonne syntaxe lorsque vous écrirez dans votre journal. Vous pouvez aussi vous référez à [cette *cheatsheet*](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md). 
 
 _________________________________________________________________________________________________________________________________________________________________________
-Bonjour, je m'appelle Jacob et ceci est ma première année au cegep. Le devoir me demande ce qui m'intéresse en TIM alors voila quelques exemples :
+Bonjour, je m'appelle Jacob et ceci est ma première année au cégep. Le devoir me demande ce qui m'intéresse en TIM alors voilà quelques exemples :
 
-* Constuire/modeler des avatars 3D
+* Construire/modeler des avatars 3D
 * Apprendre le codage en général
 * Devenir plus imaginatif
 
 
-Premièrement, j'aimerais apprendre à comment construire un modèle 3D parce que je pourrais aussi m'en servir en temps libre. Je m'explique, je suis un peu un joueur de **vrchat** et il m'arrive de vouloir créer des choses étant fruit de mes compétences et de mon imagination. Sinon, j'ai déjà vu qu'on pourrait vendre des models à des personnes sur le site https://www.fiverr.com/. Deuxièment, j'aimerais faire du codage parce qu'il pourrait être aussi utile dans mon temps personnel. Dernièrement, j'aimerais devenir encore plus imaginatif avec mes cours de Photoshop donc je suis venue ! J'adorerais que des personnes me félicitent pour mes exploits plus tard. Merci de m'avoir lu ! 🤠
+Premièrement, j'aimerais apprendre à comment construire un modèle 3D parce que je pourrais aussi m'en servir en temps libre. Je m'explique, je suis un peu un joueur de **vrchat** et il m'arrive de vouloir créer des choses étant le fruit de mes compétences et de mon imagination. Sinon, j'ai déjà vu qu'on pourrait vendre des modèles à des personnes sur le site https://www.fiverr.com/. Deuxièmement, j'aimerais faire du codage parce qu'il pourrait être aussi utile dans mon temps personnel. Dernièrement, j'aimerais devenir encore plus imaginatif avec mes cours de Photoshop donc je suis venu ! J'adorerais que des personnes me félicitent pour mes exploits plus tard. Merci de m'avoir lu ! 🤠
 
-Voici une video qui me représente beaucoup : https://youtu.be/dQw4w9WgXcQ o
+Voici une vidéo qui me représente beaucoup : https://youtu.be/dQw4w9WgXcQ o
