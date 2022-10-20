@@ -22,7 +22,7 @@
 * DESSIN 😄
 ### Identification
 * Studio Mundfish 
-* jeu action originale scifi 
+* jeu d'action originale 
 ### Dans 5 ans
 * dans une boite de jeu à faire des modèles dans des conditions médiocres 
 ### Projets
